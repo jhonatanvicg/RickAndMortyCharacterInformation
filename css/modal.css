@@ -150,8 +150,8 @@ p,h5{
   .modal {
     position: fixed;
     top: 45px;
-    left:20px;
-    height: 470px;
+    left:30px;
+    height: 500px;
     width: 280px;
     border-radius: 10px;
     z-index: 1;
