@@ -90,7 +90,7 @@
     border-bottom: solid rgb(0,0,0,0.2) 1px;
     display:flex;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 
 
@@ -151,7 +151,7 @@ p,h5{
     position: fixed;
     top: 45px;
     left:20px;
-    height: 400px;
+    height: 470px;
     width: 280px;
     border-radius: 10px;
     z-index: 1;
